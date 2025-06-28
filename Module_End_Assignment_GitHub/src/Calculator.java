@@ -37,6 +37,8 @@ public class Calculator {
 			System.out.println("Please enter a valid operator!");
 
 		}
+		
+		System.out.println("New Push!");
 	}
 
 }
