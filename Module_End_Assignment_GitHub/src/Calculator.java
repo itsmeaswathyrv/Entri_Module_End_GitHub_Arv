@@ -38,7 +38,7 @@ public class Calculator {
 
 		}
 		
-		System.out.println("New Push!");
+		//System.out.println("New Push!");
 	}
 
 }
